@@ -1,5 +1,4 @@
 package game;// Enjoy blackjack
-// dr.seungchul@gmail.com
 // To do list
 // 1. make displayStats( ) method
 // 2. 'A' should be 1 or 11
